@@ -1,0 +1,15 @@
+{
+    "aps":{
+        "alert":{
+            "title":"Push Pizza Co.",
+            "body":"Your pizza is almost ready"
+        },
+        "badge":42,
+        "sound":"default",
+        "category":"pizza.category",
+        "mutable-content":1
+    },
+    "order":["Huli pizza","Lilikoi punch","Duke pie"],
+    "subtitle":"Your order is ready!",
+    "image-url":"https://apppie.files.wordpress.com/2017/01/makepizza_6.jpg"
+    }
